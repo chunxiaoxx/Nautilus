@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment - NEVER commit real .env files
+.env
+.env.local
+.env.production
+.env.staging
+.env.development
+.env.*.local
+phase3/backend/.env
+phase3/backend/.env.production
+phase3/backend/.env.staging
+phase3/agent-engine/.env
+phase3/contracts/.env
+phase3/frontend/.env
+phase3/frontend/.env.*
+phase3/website/.env
+phase3/website/.env.development
+phase3/website/.env.production
+
+# Database
+*.db
+*.sqlite
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Nautilus specific
+data/
+checkpoints/
+phase3/frontend/node_modules/
+phase3/contracts/node_modules/
+phase3/website/node_modules/
+phase3/backend/.venv/
+phase3/backend/keys/
+
+# Claude Code local settings
+.claude/settings.local.json
