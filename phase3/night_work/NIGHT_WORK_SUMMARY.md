@@ -69,7 +69,7 @@ except AttributeError:
 #### 1. 环境变量配置
 ```env
 GITHUB_CLIENT_ID=Ov23liYOPQqFZRw5rGf9
-GITHUB_CLIENT_SECRET=eefc9d8fed1c7507915b234c0a2385d006a77259
+GITHUB_CLIENT_SECRET=<REDACTED>
 GITHUB_REDIRECT_URI=https://api.nautilus.social/api/auth/github/callback
 ```
 

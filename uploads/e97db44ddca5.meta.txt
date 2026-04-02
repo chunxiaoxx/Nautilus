@@ -1,0 +1,6 @@
+original_name: test.txt
+size: 13
+customer_id: anonymous
+note: test upload
+uploaded_at: 2026-03-27 23:55:45
+url: https://www.nautilus.social/api/upload/files/e97db44ddca5.txt
