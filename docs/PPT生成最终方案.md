@@ -205,7 +205,7 @@ prompt = "Professional team silhouettes, 5-6 people, business setting"
 ```python
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAbLcIXvJiAzKJ-ntW6Jmcd8KcW_LPkz0Y")
+genai.configure(api_key="<REDACTED>")
 model = genai.GenerativeModel("gemini-3.1-flash-image-preview")
 
 response = model.generate_content("your prompt here")

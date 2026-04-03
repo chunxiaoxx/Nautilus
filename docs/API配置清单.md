@@ -9,9 +9,9 @@
 
 ### 1. Google Gemini API (3个Key)
 
-**API Key 1**: `AIzaSyAbLcIXvJiAzKJ-ntW6Jmcd8KcW_LPkz0Y`
-**API Key 2**: `AIzaSyCpI9J-IBsBjIn6riby1LW5g7y9jsqImHc`
-**API Key 3**: `AIzaSyDC016p_xAr0CID4d-8gi3-xJ7INyuQwXA`
+**API Key 1**: `<REDACTED>`
+**API Key 2**: `<REDACTED>`
+**API Key 3**: `<REDACTED>`
 **可用功能**:
 - ✅ Gemini 3 Pro (文本对话)
 - ✅ Gemini 3 Flash (文本对话)

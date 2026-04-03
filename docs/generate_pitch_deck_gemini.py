@@ -22,7 +22,7 @@ from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_SHAPE
 
 # API配置
-GEMINI_API_KEY = "AIzaSyAbLcIXvJiAzKJ-ntW6Jmcd8KcW_LPkz0Y"
+GEMINI_API_KEY = "<REDACTED>"
 NANO_BANANA_MODEL = "gemini-3.1-flash-image-preview"
 
 # 配置Gemini

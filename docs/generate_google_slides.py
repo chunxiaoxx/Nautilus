@@ -16,7 +16,7 @@ from googleapiclient.errors import HttpError
 import json
 
 # API配置
-GOOGLE_API_KEY = "AIzaSyAbLcIXvJiAzKJ-ntW6Jmcd8KcW_LPkz0Y"
+GOOGLE_API_KEY = "<REDACTED>"
 
 # 配色方案（RGB 0-1范围）
 COLORS = {

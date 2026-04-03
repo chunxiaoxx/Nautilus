@@ -177,9 +177,9 @@ python generate_pitch_deck.py
 ### Gemini API配额
 
 **可用Key**: 3个
-- AIzaSyAbLcIXvJiAzKJ-ntW6Jmcd8KcW_LPkz0Y
-- AIzaSyCpI9J-IBsBjIn6riby1LW5g7y9jsqImHc
-- AIzaSyDC016p_xAr0CID4d-8gi3-xJ7INyuQwXA
+- <REDACTED>
+- <REDACTED>
+- <REDACTED>
 
 **每次生成消耗**:
 - 图片生成: 4次调用
